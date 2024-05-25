@@ -1,0 +1,68 @@
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\salon de thee.exe
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\salon de thee.deps.json
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\salon de thee.runtimeconfig.json
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\salon de thee.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\salon de thee.pdb
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\source\repos\salon de thee\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.AjouterServeur.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.ModifierServeur.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.SupprimerServeur.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.AssemblyInfo.cs
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.CopyComplete
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.dll
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\refint\salon de thee.dll
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.pdb
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon de thee.genruntimeconfig.cache
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\ref\salon de thee.dll
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.AjouterBoisson.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.ModifierBoisson.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.SupprimerBoisson.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.Menu.Menu.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.AjouterCommande.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.ModifierCommande.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.SupprimerCommande.resources
+C:\Users\moham\source\repos\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.Properties.Resources.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\salon de thee.exe
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\salon de thee.deps.json
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\salon de thee.runtimeconfig.json
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\salon de thee.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\salon de thee.pdb
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.AssemblyReference.cache
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.Properties.Resources.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.AjouterBoisson.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.ModifierBoisson.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.boisson.SupprimerBoisson.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.AjouterCommande.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.ModifierCommande.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.commande.SupprimerCommande.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.Menu.Menu.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.AjouterServeur.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.ModifierServeur.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon_de_thee.View.SupprimerServeur.resources
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.GenerateResource.cache
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.AssemblyInfoInputs.cache
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.AssemblyInfo.cs
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.CoreCompileInputs.cache
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.csproj.CopyComplete
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\refint\salon de thee.dll
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.pdb
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\salon de thee.genruntimeconfig.cache
+C:\Users\qarqa\OneDrive\Documents\ALL\OLD YEAR'S\salon-de-thee\salon de thee\obj\Debug\net6.0-windows\ref\salon de thee.dll

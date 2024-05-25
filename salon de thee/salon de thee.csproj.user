@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\boisson\AjouterBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\boisson\ModifierBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\boisson\SupprimerBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\commande\AjouterCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\commande\ModifierCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\commande\SupprimerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\serveur\AjouterServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\serveur\ModifierServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\serveur\SupprimerServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
